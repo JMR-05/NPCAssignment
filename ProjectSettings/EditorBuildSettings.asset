@@ -4,5 +4,12 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartCutScene.unity
+    guid: 9eb7a740ac0f89f43842a3a35ad85670
+  - enabled: 1
+    path: Assets/Scenes/Forest.unity
+    guid: 3ba5cfb13f1ca064dbb49b0294261302
   m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0
